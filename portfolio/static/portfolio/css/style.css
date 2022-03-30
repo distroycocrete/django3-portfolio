@@ -1,0 +1,15 @@
+body {
+    background-color: lightblue;
+}
+
+h3 {
+    color: white;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    font-size: 16px;
+    /* font-family: verdana; 
+     font-weight: bold*/
+}
